@@ -23,7 +23,7 @@ ResumeGPT Workflow
 2. Run the Script: Run the following scripts. This will clone the project, prepare the environment, and execute the code.
 
 - Clone the project
-< git clone https://github.com/Riyazmk1995/ResumeGPT.git >
+''' git clone https://github.com/Riyazmk1995/ResumeGPT.git '''
 - CD project directory
 cd ResumeGPT 
 - Create a virtual environment
